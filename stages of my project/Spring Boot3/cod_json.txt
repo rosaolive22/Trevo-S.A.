@@ -1,0 +1,66 @@
+Json de todos:
+
+company*,OK
+{ 
+"cnpj":"XXXXXXXX0001XX",
+"name":"Trevo S.A.",
+"business_branch":"Máquinas agrícolas de grande porte",
+"founding_yeans":1931
+}
+
+product  ok
+{
+"id_product":"",
+"name":"Adubadora com barras",
+"size":"40/30",
+"status":"Disponivel",
+"cod_catalog":"",
+"date_register":"17/02/2023",
+"id_catalog":""
+}
+
+cultures
+{
+"id":"1",
+"cod_catalog":"",
+"id_product":""
+}
+
+catalog ok
+{
+"cod":"1",
+"id_product":"1"
+}
+
+image  ok
+{
+"cod":"3333",
+"id_product":"",
+"img":"link do DropBox"
+}
+
+technical_description ok
+{
+"cod_description":"77777",
+"indicated_technical":"Indicações e orientações de uso,do fabricante."
+}
+
+sale ok
+{
+"id":"1",
+"information":"Vendedor atuante",
+"id_product:
+}
+
+customer*Ok
+{
+"cod":55555,
+"name":"Luciano Duarte",
+"phone":"14996747897" ,
+"e_mail":"@testando_123", 
+"country":"Brasil",
+"id_register":"",
+"id_product":""-lembrando que está como herança no BD
+}
+----------------------------coloquei no Insomnia*, teste Ok
+

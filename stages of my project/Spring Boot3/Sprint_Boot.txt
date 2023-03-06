@@ -1,0 +1,34 @@
+Curso Spring Boot
+
+A versão 3 do Spring Boot foi lançada em novembro de 2022, trazendo algumas novidades em relação à versão anterior. Dentre as principais novidades, se destacam:
+
+-Suporte ao Java 17
+-Migração das especificações do Java EE para o Jakarta EE
+-Suporte a imagens nativas
+A versão 3 do Spring Boot foi lançada em novembro de 2022, trazendo algumas novidades em relação à versão anterior. Dentre as principais novidades, se destacam:
+
+Suporte ao Java 17
+Migração das especificações do Java EE para o Jakarta EE
+Suporte a imagens nativas
+
+JPA- é uma api modelo de concistência de dados em bancos relacional...
+Java EE
+https://www.devmedia.com.br/introducao-a-jpa-java-persistence-api/28173
+
+Visto no curso:
+Spring MVC -->ferramenta DEV TOOLS q inicia automaticamente (após ctrl+s)
+configurei, vizualiza no navegador.
+
+Trelo https://trello.com/b/O0lGCsKb/api-voll-med
+Vigma https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2%3A1007
+
+Json de todos:
+
+
+
+
+
+
+
+
+
